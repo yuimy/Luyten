@@ -197,7 +197,7 @@
                             <goal>wget</goal>
                         </goals>
                         <configuration>
-                            <url>https://raw.githubusercontent.com/tofi86/universalJavaApplicationStub/master/src/universalJavaApplicationStub</url>
+                            <url>https://github.com/tofi86/universalJavaApplicationStub/blob/master/src/universalJavaApplicationStub</url>
                             <outputDirectory>${project.build.directory}/resources</outputDirectory>
                             <!-- Needs to be named with ".sh" extension or OS X 10.11 gets confused -->
                             <outputFileName>universalJavaApplicationStub.sh</outputFileName>
